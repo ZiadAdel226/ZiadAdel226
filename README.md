@@ -9,7 +9,7 @@
 
 - ⚡ Brief on me: **I am a fresh Data Analytics graduate with expertise in Python, SQL, Power BI, and Excel. Proficient in data visualization and dedicated to delivering actionable insights through data storytelling. Eager to apply my skills to contribute to impactful business decisions and organizational growth.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ziad-khodier-a14bb5221/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad khodier" height="30" width="40" />
@@ -50,7 +50,9 @@
   </a> 
 </p>
 
-<h3 align="left">Most Used Languages:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadadel226&show_icons=true&locale=en&layout=compact" alt="ziadadel226" />
+  - 💻 Tools: Python, SQL, Power BI, Excel
+- 📈 Skills: Data Analysis, Visualization, Machine Learning
+- 🌍 Languages: English, Arabic
 </p>
