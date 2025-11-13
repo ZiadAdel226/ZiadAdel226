@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1EknXFL26hrXktBkZLRbpk4-mt3Ki118d/view?usp=sharing)
 
-- ⚡ Brief on me: **I am a fresh Data Analytics graduate with expertise in Python, SQL, Power BI, and Excel. Proficient in data visualization and dedicated to delivering actionable insights through data storytelling. Eager to apply my skills to contribute to impactful business decisions and organizational growth.**
+- ⚡ Brief on me: **I am a Fresh Data Analyst graduate skilled in Python, SQL, Power BI, and Excel, passionate about turning data into meaningful insights. Experienced in data visualization and storytelling, with foundational knowledge in Data Science and Data Engineering. Eager to apply analytical skills to drive data-informed decisions and business growth.**
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
