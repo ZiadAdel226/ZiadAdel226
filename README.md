@@ -53,6 +53,6 @@
 <h3 align="left">Skills:</h3>
 <p align="left">
   - 💻 Tools: Python, SQL, Power BI, Excel
-- 📈 Skills: Data Analysis, Visualization, Machine Learning
-- 🌍 Languages: English, Arabic
+- 📈 Skills: Data Analysis, Visualization, Machine Learning,Data Cleaning, Dashboard Design, Data Storytelling
+- 🌍 Languages: English, Arabic , German(intermediate)
 </p>
